@@ -19,3 +19,8 @@ with a baseline CNN on VIA screening images from IARC and Jhpiego.
 
 ## Tools
 Python, PyTorch, scikit-learn, matplotlib
+
+## Note
+This project was developed in Google Colab. 
+Paths in the notebook reference Google Drive mount points. 
+To run locally, update PROJECT_ROOT and data paths accordingly.
