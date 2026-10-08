@@ -1,0 +1,536 @@
+image_path,class,split,class_name,case_id
+Case 001/AFC0.jpg,0,val,Normal,Case 001
+Case 001/AFC1.jpg,0,val,Normal,Case 001
+Case 002/AJL0.jpg,0,test,Normal,Case 002
+Case 002/AJL1.jpg,0,test,Normal,Case 002
+Case 003/AGY0.jpg,0,train,Normal,Case 003
+Case 003/AGY1.jpg,0,train,Normal,Case 003
+Case 004/AJE0.jpg,0,train,Normal,Case 004
+Case 004/AJE1.jpg,0,train,Normal,Case 004
+Case 005/AHS0.jpg,0,train,Normal,Case 005
+Case 005/AHS1.jpg,0,train,Normal,Case 005
+Case 006/AMY0.jpg,0,train,Normal,Case 006
+Case 006/AMY1.jpg,0,train,Normal,Case 006
+Case 007/AFE0.jpg,0,test,Normal,Case 007
+Case 007/AFE1.jpg,0,test,Normal,Case 007
+Case 008/AMF0.jpg,0,val,Normal,Case 008
+Case 008/AMF1.jpg,0,val,Normal,Case 008
+Case 009/AIF0.jpg,0,train,Normal,Case 009
+Case 009/AIF1.jpg,0,train,Normal,Case 009
+Case 010/AJG0.jpg,0,train,Normal,Case 010
+Case 010/AJG1.jpg,0,train,Normal,Case 010
+Case 011/AGW0.jpg,0,test,Normal,Case 011
+Case 011/AGW1.jpg,0,test,Normal,Case 011
+Case 012/AMK0.jpg,0,val,Normal,Case 012
+Case 012/AMK1.jpg,0,val,Normal,Case 012
+Case 013/AFH0.jpg,0,test,Normal,Case 013
+Case 013/AFH1.jpg,0,test,Normal,Case 013
+Case 014/ANC0.jpg,0,train,Normal,Case 014
+Case 014/ANC1.jpg,0,train,Normal,Case 014
+Case 015/AIH0.jpg,0,train,Normal,Case 015
+Case 015/AIH1.jpg,0,train,Normal,Case 015
+Case 016/AHT0.jpg,0,train,Normal,Case 016
+Case 016/AHT1.jpg,0,train,Normal,Case 016
+Case 016/AHT2.jpg,0,train,Normal,Case 016
+Case 017/AGV0.jpg,0,train,Normal,Case 017
+Case 017/AGV1.jpg,0,train,Normal,Case 017
+Case 018/AMT0.jpg,0,val,Normal,Case 018
+Case 018/AMT1.jpg,0,val,Normal,Case 018
+Case 019/AIL0.jpg,0,train,Normal,Case 019
+Case 019/AIL1.jpg,0,train,Normal,Case 019
+Case 020/AFI0.jpg,0,train,Normal,Case 020
+Case 020/AFI1.jpg,0,train,Normal,Case 020
+Case 021/AKB0.jpg,0,val,Normal,Case 021
+Case 021/AKB1.jpg,0,val,Normal,Case 021
+Case 021/AKB2.jpg,0,val,Normal,Case 021
+Case 022/AHR0.jpg,0,test,Normal,Case 022
+Case 022/AHR1.jpg,0,test,Normal,Case 022
+Case 023/ANP0.jpg,0,train,Normal,Case 023
+Case 023/ANP1.jpg,0,train,Normal,Case 023
+Case 024/AGM0.jpg,0,train,Normal,Case 024
+Case 024/AGM1.jpg,0,train,Normal,Case 024
+Case 025/AJW0.jpg,0,train,Normal,Case 025
+Case 025/AJW1.jpg,0,train,Normal,Case 025
+Case 026/AID0.jpg,0,test,Normal,Case 026
+Case 026/AID1.jpg,0,test,Normal,Case 026
+Case 027/ANV0.jpg,0,val,Normal,Case 027
+Case 027/ANV1.jpg,0,val,Normal,Case 027
+Case 028/AFJ0.jpg,0,train,Normal,Case 028
+Case 028/AFJ1.jpg,0,train,Normal,Case 028
+Case 029/ANS0.jpg,0,train,Normal,Case 029
+Case 029/ANS1.jpg,0,train,Normal,Case 029
+Case 030/AJZ0.jpg,0,train,Normal,Case 030
+Case 030/AJZ1.jpg,0,train,Normal,Case 030
+Case 031/AIO0.jpg,0,val,Normal,Case 031
+Case 031/AIO1.jpg,0,val,Normal,Case 031
+Case 032/AHD0.jpg,0,train,Normal,Case 032
+Case 032/AHD1.jpg,0,train,Normal,Case 032
+Case 033/AKJ0.jpg,0,test,Normal,Case 033
+Case 033/AKJ1.jpg,0,test,Normal,Case 033
+Case 034/AIB0.jpg,0,train,Normal,Case 034
+Case 034/AIB1.jpg,0,train,Normal,Case 034
+Case 035/AGX0.jpg,0,train,Normal,Case 035
+Case 035/AGX1.jpg,0,train,Normal,Case 035
+Case 036/AKZ0.jpg,0,val,Normal,Case 036
+Case 036/AKZ1.jpg,0,val,Normal,Case 036
+Case 037/AJN0.jpg,0,test,Normal,Case 037
+Case 037/AJN1.jpg,0,test,Normal,Case 037
+Case 038/AHQ0.jpg,0,train,Normal,Case 038
+Case 038/AHQ1.jpg,0,train,Normal,Case 038
+Case 039/AJC0.jpg,0,train,Normal,Case 039
+Case 039/AJC1.jpg,0,train,Normal,Case 039
+Case 040/AHA0.jpg,0,train,Normal,Case 040
+Case 040/AHA1.jpg,0,train,Normal,Case 040
+Case 041/ALI0.jpg,0,test,Normal,Case 041
+Case 041/ALI1.jpg,0,test,Normal,Case 041
+Case 042/AOV0.jpg,0,val,Normal,Case 042
+Case 042/AOV1.jpg,0,val,Normal,Case 042
+Case 043/AGB0.jpg,0,train,Normal,Case 043
+Case 043/AGB1.jpg,0,train,Normal,Case 043
+Case 044/AOS0.jpg,0,train,Normal,Case 044
+Case 044/AOS1.jpg,0,train,Normal,Case 044
+Case 045/APF0.jpg,0,train,Normal,Case 045
+Case 045/APF1.jpg,0,train,Normal,Case 045
+Case 046/AGO0.jpg,0,test,Normal,Case 046
+Case 046/AGO1.jpg,0,test,Normal,Case 046
+Case 047/ALF0.jpg,0,val,Normal,Case 047
+Case 047/ALF1.jpg,0,val,Normal,Case 047
+Case 048/AOP0.jpg,0,train,Normal,Case 048
+Case 048/AOP1.jpg,0,train,Normal,Case 048
+Case 049/AFK0.jpg,0,train,Normal,Case 049
+Case 049/AFK1.jpg,0,train,Normal,Case 049
+Case 050/API0.jpg,0,train,Normal,Case 050
+Case 050/API1.jpg,0,train,Normal,Case 050
+Case 051/AGA0.jpg,0,test,Normal,Case 051
+Case 051/AGA1.jpg,0,test,Normal,Case 051
+Case 052/AMC0.jpg,0,val,Normal,Case 052
+Case 052/AMC1.jpg,0,val,Normal,Case 052
+Case 053/APB0.jpg,0,train,Normal,Case 053
+Case 053/APB1.jpg,0,train,Normal,Case 053
+Case 054/ALC0.jpg,0,train,Normal,Case 054
+Case 054/ALC1.jpg,0,train,Normal,Case 054
+Case 055/AFL0.jpg,0,train,Normal,Case 055
+Case 055/AFL1.jpg,0,train,Normal,Case 055
+Case 056/APT0.jpg,0,test,Normal,Case 056
+Case 056/APT1.jpg,0,test,Normal,Case 056
+Case 057/APV0.jpg,0,val,Normal,Case 057
+Case 057/APV1.jpg,0,val,Normal,Case 057
+Case 058/ALU0.jpg,0,train,Normal,Case 058
+Case 058/ALU1.jpg,0,train,Normal,Case 058
+Case 059/AEG0.jpg,0,train,Normal,Case 059
+Case 059/AEG1.jpg,0,train,Normal,Case 059
+Case 060/ADL0.jpg,0,train,Normal,Case 060
+Case 060/ADL1.jpg,0,train,Normal,Case 060
+Case 061/AEW0.jpg,0,test,Normal,Case 061
+Case 061/AEW1.jpg,0,test,Normal,Case 061
+Case 062/AAW0.jpg,0,val,Normal,Case 062
+Case 062/AAW1.jpg,0,val,Normal,Case 062
+Case 063/ACR0.jpg,0,test,Normal,Case 063
+Case 063/ACR1.jpg,0,test,Normal,Case 063
+Case 064/ACJ0.jpg,0,train,Normal,Case 064
+Case 064/ACJ1.jpg,0,train,Normal,Case 064
+Case 065/AAT0.jpg,0,train,Normal,Case 065
+Case 065/AAT1.jpg,0,train,Normal,Case 065
+Case 066/ADI0.jpg,0,val,Normal,Case 066
+Case 066/ADI1.jpg,0,val,Normal,Case 066
+Case 067/AAK0.jpg,0,train,Normal,Case 067
+Case 067/AAK1.jpg,0,train,Normal,Case 067
+Case 068/AEI0.jpg,0,train,Normal,Case 068
+Case 068/AEI1.jpg,0,train,Normal,Case 068
+Case 069/ACB0.jpg,0,train,Normal,Case 069
+Case 069/ACB1.jpg,0,train,Normal,Case 069
+Case 070/ACV0.jpg,0,train,Normal,Case 070
+Case 070/ACV1.jpg,0,train,Normal,Case 070
+Case 071/ACN0.jpg,0,val,Normal,Case 071
+Case 071/ACN1.jpg,0,val,Normal,Case 071
+Case 072/ABT0.jpg,0,test,Normal,Case 072
+Case 072/ABT1.jpg,0,test,Normal,Case 072
+Case 073/ACG0.jpg,0,train,Normal,Case 073
+Case 073/ACG1.jpg,0,train,Normal,Case 073
+Case 074/AAG0.jpg,0,train,Normal,Case 074
+Case 074/AAG1.jpg,0,train,Normal,Case 074
+Case 075/ADU0.jpg,0,train,Normal,Case 075
+Case 075/ADU1.jpg,0,train,Normal,Case 075
+Case 076/AEV0.jpg,0,test,Normal,Case 076
+Case 076/AEV1.jpg,0,test,Normal,Case 076
+Case 077/ACH0.jpg,0,train,Normal,Case 077
+Case 077/ACH1.jpg,0,train,Normal,Case 077
+Case 078/AEA0.jpg,0,val,Normal,Case 078
+Case 078/AEA1.jpg,0,val,Normal,Case 078
+Case 079/ADP0.jpg,0,train,Normal,Case 079
+Case 079/ADP1.jpg,0,train,Normal,Case 079
+Case 080/ACI0.jpg,0,train,Normal,Case 080
+Case 080/ACI1.jpg,0,train,Normal,Case 080
+Case 081/ACK0.jpg,0,test,Normal,Case 081
+Case 081/ACK1.jpg,0,test,Normal,Case 081
+Case 082/ACD0.jpg,0,val,Normal,Case 082
+Case 082/ACD1.jpg,0,val,Normal,Case 082
+Case 083/AAS0.jpg,0,train,Normal,Case 083
+Case 083/AAS1.jpg,0,train,Normal,Case 083
+Case 084/ADW0.jpg,0,train,Normal,Case 084
+Case 084/ADW1.jpg,0,train,Normal,Case 084
+Case 085/ABE0.jpg,0,train,Normal,Case 085
+Case 085/ABE1.jpg,0,train,Normal,Case 085
+Case 086/ACY0.jpg,0,test,Normal,Case 086
+Case 086/ACY1.jpg,0,test,Normal,Case 086
+Case 087/AAA0.jpg,0,train,Normal,Case 087
+Case 087/AAA1.jpg,0,train,Normal,Case 087
+Case 088/ADK0.jpg,1,train,Precancerous,Case 088
+Case 088/ADK1.jpg,1,train,Precancerous,Case 088
+Case 089/ADV0.jpg,0,val,Normal,Case 089
+Case 089/ADV1.jpg,0,val,Normal,Case 089
+Case 090/AAY0.jpg,0,test,Normal,Case 090
+Case 090/AAY1.jpg,0,test,Normal,Case 090
+Case 091/ABD0.jpg,0,train,Normal,Case 091
+Case 091/ABD1.jpg,0,train,Normal,Case 091
+Case 092/AEP1.jpg,1,train,Precancerous,Case 092
+Case 092/AEP0.jpg,1,train,Precancerous,Case 092
+Case 092/AEP2.jpg,1,train,Precancerous,Case 092
+Case 093/AJP0.jpg,1,val,Precancerous,Case 093
+Case 093/AJP1.jpg,1,val,Precancerous,Case 093
+Case 094/ADO0.jpg,1,train,Precancerous,Case 094
+Case 094/ADO1.jpg,1,train,Precancerous,Case 094
+Case 095/ACS0.jpg,1,train,Precancerous,Case 095
+Case 095/ACS1.jpg,1,train,Precancerous,Case 095
+Case 096/ABH0.jpg,1,test,Precancerous,Case 096
+Case 096/ABH1.jpg,1,test,Precancerous,Case 096
+Case 097/AAD0.jpg,1,val,Precancerous,Case 097
+Case 097/AAD1.jpg,1,val,Precancerous,Case 097
+Case 098/AAQ0.jpg,0,train,Normal,Case 098
+Case 098/AAQ1.jpg,0,train,Normal,Case 098
+Case 099/ABZ0.jpg,0,val,Normal,Case 099
+Case 099/ABZ1.jpg,0,val,Normal,Case 099
+Case 100/AAZ0.jpg,0,train,Normal,Case 100
+Case 100/AAZ1.jpg,0,train,Normal,Case 100
+Case 101/ABV0.jpg,0,train,Normal,Case 101
+Case 101/ABV1.jpg,0,train,Normal,Case 101
+Case 102/AJA0.jpg,0,test,Normal,Case 102
+Case 102/AJA1.jpg,0,test,Normal,Case 102
+Case 103/AEE0.jpg,0,train,Normal,Case 103
+Case 103/AEE1.jpg,0,train,Normal,Case 103
+Case 104/AER0.jpg,0,train,Normal,Case 104
+Case 104/AER1.jpg,0,train,Normal,Case 104
+Case 105/ABJ0.jpg,1,train,Precancerous,Case 105
+Case 105/ABJ1.jpg,1,train,Precancerous,Case 105
+Case 106/ACQ0.jpg,1,val,Precancerous,Case 106
+Case 106/ACQ1.jpg,1,val,Precancerous,Case 106
+Case 106/ACQ2.jpg,1,val,Precancerous,Case 106
+Case 107/ACC0.jpg,1,test,Precancerous,Case 107
+Case 107/ACC1.jpg,1,test,Precancerous,Case 107
+Case 107/ACC2.jpg,1,test,Precancerous,Case 107
+Case 108/AAL0.jpg,1,train,Precancerous,Case 108
+Case 108/AAL1.jpg,1,train,Precancerous,Case 108
+Case 109/ABS0.jpg,1,train,Precancerous,Case 109
+Case 109/ABS1.jpg,1,train,Precancerous,Case 109
+Case 109/ABS2.jpg,1,train,Precancerous,Case 109
+Case 110/AEO0.jpg,1,train,Precancerous,Case 110
+Case 110/AEO1.jpg,1,train,Precancerous,Case 110
+Case 110/AEO2.jpg,1,train,Precancerous,Case 110
+Case 111/ACU0.jpg,1,val,Precancerous,Case 111
+Case 111/ACU1.jpg,1,val,Precancerous,Case 111
+Case 111/ACU2.jpg,1,val,Precancerous,Case 111
+Case 112/AFB0.jpg,1,test,Precancerous,Case 112
+Case 112/AFB1.jpg,1,test,Precancerous,Case 112
+Case 112/AFB2.jpg,1,test,Precancerous,Case 112
+Case 113/ACO0.jpg,1,train,Precancerous,Case 113
+Case 113/ACO1.jpg,1,train,Precancerous,Case 113
+Case 113/ACO2.jpg,1,train,Precancerous,Case 113
+Case 114/AED0.jpg,1,train,Precancerous,Case 114
+Case 114/AED1.jpg,1,train,Precancerous,Case 114
+Case 114/AED2.jpg,1,train,Precancerous,Case 114
+Case 115/ADC0.jpg,2,train,Cancerous,Case 115
+Case 115/ADC1.jpg,2,train,Cancerous,Case 115
+Case 115/ADC2.jpg,2,train,Cancerous,Case 115
+Case 115/ADC3.jpg,2,train,Cancerous,Case 115
+Case 116/ADB0.jpg,1,train,Precancerous,Case 116
+Case 116/ADB1.jpg,1,train,Precancerous,Case 116
+Case 117/ABC0.jpg,1,test,Precancerous,Case 117
+Case 117/ABC1.jpg,1,test,Precancerous,Case 117
+Case 117/ABC2.jpg,1,test,Precancerous,Case 117
+Case 118/ABY0.jpg,1,val,Precancerous,Case 118
+Case 118/ABY1.jpg,1,val,Precancerous,Case 118
+Case 118/ABY2.jpg,1,val,Precancerous,Case 118
+Case 119/ABB0.jpg,1,train,Precancerous,Case 119
+Case 119/ABB1.jpg,1,train,Precancerous,Case 119
+Case 119/ABB2.jpg,1,train,Precancerous,Case 119
+Case 120/ACZ0.jpg,1,train,Precancerous,Case 120
+Case 120/ACZ1.jpg,1,train,Precancerous,Case 120
+Case 120/ACZ2.jpg,1,train,Precancerous,Case 120
+Case 121/ADM0.jpg,1,val,Precancerous,Case 121
+Case 121/ADM1.jpg,1,val,Precancerous,Case 121
+Case 121/ADM2.jpg,1,val,Precancerous,Case 121
+Case 122/ABL0.jpg,1,test,Precancerous,Case 122
+Case 122/ABL1.jpg,1,test,Precancerous,Case 122
+Case 122/ABL2.jpg,1,test,Precancerous,Case 122
+Case 123/ABU0.jpg,1,train,Precancerous,Case 123
+Case 123/ABU1.jpg,1,train,Precancerous,Case 123
+Case 123/ABU2.jpg,1,train,Precancerous,Case 123
+Case 124/AAE0.jpg,1,val,Precancerous,Case 124
+Case 124/AAE1.jpg,1,val,Precancerous,Case 124
+Case 124/AAE2.jpg,1,val,Precancerous,Case 124
+Case 125/ABW0.jpg,1,train,Precancerous,Case 125
+Case 125/ABW1.jpg,1,train,Precancerous,Case 125
+Case 126/ACL0.jpg,1,train,Precancerous,Case 126
+Case 126/ACL1.jpg,1,train,Precancerous,Case 126
+Case 126/ACL2.jpg,1,train,Precancerous,Case 126
+Case 127/ABM0.jpg,1,test,Precancerous,Case 127
+Case 127/ABM1.jpg,1,test,Precancerous,Case 127
+Case 128/ABA0.jpg,1,train,Precancerous,Case 128
+Case 128/ABA1.jpg,1,train,Precancerous,Case 128
+Case 128/ABA2.jpg,1,train,Precancerous,Case 128
+Case 129/AEN0.jpg,1,train,Precancerous,Case 129
+Case 129/AEN1.jpg,1,train,Precancerous,Case 129
+Case 129/AEN2.jpg,1,train,Precancerous,Case 129
+Case 130/ACX0.jpg,1,train,Precancerous,Case 130
+Case 130/ACX1.jpg,1,train,Precancerous,Case 130
+Case 130/ACX2.jpg,1,train,Precancerous,Case 130
+Case 131/ADJ0.jpg,2,val,Cancerous,Case 131
+Case 131/ADJ1.jpg,2,val,Cancerous,Case 131
+Case 132/AAO0.jpg,1,train,Precancerous,Case 132
+Case 132/AAO1.jpg,1,train,Precancerous,Case 132
+Case 132/AAO2.jpg,1,train,Precancerous,Case 132
+Case 133/ADQ0.jpg,1,train,Precancerous,Case 133
+Case 133/ADQ1.jpg,1,train,Precancerous,Case 133
+Case 133/ADQ2.jpg,1,train,Precancerous,Case 133
+Case 134/ABO0.jpg,1,test,Precancerous,Case 134
+Case 134/ABO1.jpg,1,test,Precancerous,Case 134
+Case 134/ABO2.jpg,1,test,Precancerous,Case 134
+Case 135/AEJ0.jpg,1,test,Precancerous,Case 135
+Case 135/AEJ1.jpg,1,test,Precancerous,Case 135
+Case 135/AEJ2.jpg,1,test,Precancerous,Case 135
+Case 136/AES0.jpg,1,train,Precancerous,Case 136
+Case 136/AES1.jpg,1,train,Precancerous,Case 136
+Case 136/AES2.jpg,1,train,Precancerous,Case 136
+Case 137/AAU0.jpg,1,val,Precancerous,Case 137
+Case 137/AAU1.jpg,1,val,Precancerous,Case 137
+Case 138/ADR0.jpg,1,train,Precancerous,Case 138
+Case 138/ADR1.jpg,1,train,Precancerous,Case 138
+Case 138/ADR2.jpg,1,train,Precancerous,Case 138
+Case 139/ACM0.jpg,1,train,Precancerous,Case 139
+Case 139/ACM1.jpg,1,train,Precancerous,Case 139
+Case 139/ACM2.jpg,1,train,Precancerous,Case 139
+Case 140/ACP0.jpg,0,train,Normal,Case 140
+Case 140/ACP1.jpg,0,train,Normal,Case 140
+Case 140/ACP2.jpg,0,train,Normal,Case 140
+Case 141/AEL0.jpg,0,val,Normal,Case 141
+Case 141/AEL1.jpg,0,val,Normal,Case 141
+Case 141/AEL2.jpg,0,val,Normal,Case 141
+Case 142/ACF0.jpg,1,train,Precancerous,Case 142
+Case 142/ACF1.jpg,1,train,Precancerous,Case 142
+Case 142/ACF2.jpg,1,train,Precancerous,Case 142
+Case 143/AAX0.jpg,1,test,Precancerous,Case 143
+Case 143/AAX1.jpg,1,test,Precancerous,Case 143
+Case 143/AAX2.jpg,1,test,Precancerous,Case 143
+Case 144/ADA0.jpg,1,train,Precancerous,Case 144
+Case 144/ADA1.jpg,1,train,Precancerous,Case 144
+Case 144/ADA2.jpg,1,train,Precancerous,Case 144
+Case 145/AAV0.jpg,1,train,Precancerous,Case 145
+Case 145/AAV1.jpg,1,train,Precancerous,Case 145
+Case 146/AEC0.jpg,1,train,Precancerous,Case 146
+Case 146/AEC1.jpg,1,train,Precancerous,Case 146
+Case 146/AEC2.jpg,1,train,Precancerous,Case 146
+Case 147/AEF0.jpg,1,val,Precancerous,Case 147
+Case 147/AEF1.jpg,1,val,Precancerous,Case 147
+Case 148/AAB0.jpg,1,test,Precancerous,Case 148
+Case 148/AAB1.jpg,1,test,Precancerous,Case 148
+Case 149/AAI0.jpg,1,train,Precancerous,Case 149
+Case 149/AAI1.jpg,1,train,Precancerous,Case 149
+Case 150/ADT0.jpg,1,train,Precancerous,Case 150
+Case 150/ADT1.jpg,1,train,Precancerous,Case 150
+Case 150/ADT2.jpg,1,train,Precancerous,Case 150
+Case 151/ABQ0.jpg,1,test,Precancerous,Case 151
+Case 151/ABQ1.jpg,1,test,Precancerous,Case 151
+Case 151/ABQ2.jpg,1,test,Precancerous,Case 151
+Case 152/ACT0.jpg,1,val,Precancerous,Case 152
+Case 152/ACT1.jpg,1,val,Precancerous,Case 152
+Case 152/ACT2.jpg,1,val,Precancerous,Case 152
+Case 153/ACA0.jpg,1,train,Precancerous,Case 153
+Case 153/ACA1.jpg,1,train,Precancerous,Case 153
+Case 153/ACA2.jpg,1,train,Precancerous,Case 153
+Case 154/AEH0.jpg,1,train,Precancerous,Case 154
+Case 154/AEH1.jpg,1,train,Precancerous,Case 154
+Case 154/AEH2.jpg,1,train,Precancerous,Case 154
+Case 155/AAM0.jpg,0,train,Normal,Case 155
+Case 155/AAM1.jpg,0,train,Normal,Case 155
+Case 155/AAM2.jpg,0,train,Normal,Case 155
+Case 156/ADD0.jpg,1,val,Precancerous,Case 156
+Case 156/ADD1.jpg,1,val,Precancerous,Case 156
+Case 157/ADN0.jpg,1,test,Precancerous,Case 157
+Case 157/ADN1.jpg,1,test,Precancerous,Case 157
+Case 157/ADN2.jpg,1,test,Precancerous,Case 157
+Case 158/ACW0.jpg,0,train,Normal,Case 158
+Case 158/ACW1.jpg,0,train,Normal,Case 158
+Case 159/AEQ0.jpg,1,train,Precancerous,Case 159
+Case 159/AEQ1.jpg,1,train,Precancerous,Case 159
+Case 160/ADX0.jpg,0,train,Normal,Case 160
+Case 160/ADX1.jpg,0,train,Normal,Case 160
+Case 161/AEX0.jpg,1,val,Precancerous,Case 161
+Case 161/AEX1.jpg,1,val,Precancerous,Case 161
+Case 162/ABF0.jpg,1,test,Precancerous,Case 162
+Case 162/ABF1.jpg,1,test,Precancerous,Case 162
+Case 163/ABX0.jpg,1,train,Precancerous,Case 163
+Case 163/ABX1.jpg,1,train,Precancerous,Case 163
+Case 163/ABX2.jpg,1,train,Precancerous,Case 163
+Case 164/ADS0.jpg,1,train,Precancerous,Case 164
+Case 164/ADS1.jpg,1,train,Precancerous,Case 164
+Case 164/ADS2.jpg,1,train,Precancerous,Case 164
+Case 165/ABN0.jpg,0,train,Normal,Case 165
+Case 165/ABN1.jpg,0,train,Normal,Case 165
+Case 166/APW1.jpg,1,test,Precancerous,Case 166
+Case 166/APW2.jpg,1,test,Precancerous,Case 166
+Case 166/APW3.jpg,1,test,Precancerous,Case 166
+Case 167/ABP0.jpg,2,val,Cancerous,Case 167
+Case 167/ABP1.jpg,2,val,Cancerous,Case 167
+Case 168/AEB0.jpg,2,train,Cancerous,Case 168
+Case 168/AEB1.jpg,2,train,Cancerous,Case 168
+Case 169/ABR0.jpg,2,train,Cancerous,Case 169
+Case 169/ABR1.jpg,2,train,Cancerous,Case 169
+Case 170/ABI0.jpg,2,train,Cancerous,Case 170
+Case 170/ABI1.jpg,2,train,Cancerous,Case 170
+Case 171/ADY0.jpg,2,val,Cancerous,Case 171
+Case 171/ADY1.jpg,2,val,Cancerous,Case 171
+Case 172/AAH0.jpg,2,test,Cancerous,Case 172
+Case 172/AAH1.jpg,2,test,Cancerous,Case 172
+Case 173/ADE0.jpg,2,train,Cancerous,Case 173
+Case 173/ADE1.jpg,2,train,Cancerous,Case 173
+Case 174/ADH0.jpg,2,train,Cancerous,Case 174
+Case 174/ADH1.jpg,2,train,Cancerous,Case 174
+Case 175/AAN0.jpg,2,train,Cancerous,Case 175
+Case 175/AAN1.jpg,2,train,Cancerous,Case 175
+Case 176/AET0.jpg,2,val,Cancerous,Case 176
+Case 176/AET1.jpg,2,val,Cancerous,Case 176
+Case 177/AFA0.jpg,2,test,Cancerous,Case 177
+Case 177/AFA1.jpg,2,test,Cancerous,Case 177
+Case 178/AEM0.jpg,2,train,Cancerous,Case 178
+Case 178/AEM1.jpg,2,train,Cancerous,Case 178
+Case 179/AAF0.jpg,2,train,Cancerous,Case 179
+Case 179/AAF1.jpg,2,train,Cancerous,Case 179
+Case 180/ACE0.jpg,2,train,Cancerous,Case 180
+Case 180/ACE1.jpg,2,train,Cancerous,Case 180
+Case 181/AAC0.jpg,2,test,Cancerous,Case 181
+Case 181/AAC1.jpg,2,test,Cancerous,Case 181
+Case 182/AAR0.jpg,2,val,Cancerous,Case 182
+Case 182/AAR1.jpg,2,val,Cancerous,Case 182
+Case 183/AEY0.jpg,2,train,Cancerous,Case 183
+Case 183/AEY1.jpg,2,train,Cancerous,Case 183
+Case 184/AEU0.jpg,2,train,Cancerous,Case 184
+Case 184/AEU1.jpg,2,train,Cancerous,Case 184
+Case 185/ADF0.jpg,2,train,Cancerous,Case 185
+Case 185/ADF1.jpg,2,train,Cancerous,Case 185
+Case 186/ABK0.jpg,2,val,Cancerous,Case 186
+Case 186/ABK1.jpg,2,val,Cancerous,Case 186
+j1data/via_img_001.jpg,1,train,Precancerous,Flashcard 001
+j1data/via_img_002.jpg,1,train,Precancerous,Flashcard 002
+j1data/via_img_003.jpg,0,train,Normal,Flashcard 003
+j1data/via_img_04.jpg,0,train,Normal,Flashcard 004
+j1data/via_img_005.jpg,2,train,Cancerous,Flashcard 005
+j1data/via_img_006.jpg,0,train,Normal,Flashcard 006
+j1data/via_img_007.jpg,2,train,Cancerous,Flashcard 007
+j1data/via_img_008.jpg,1,train,Precancerous,Flashcard 008
+j1data/via_img_009.jpg,0,train,Normal,Flashcard 009
+j1data/via_img_010.jpg,1,train,Precancerous,Flashcard 010
+j1data/via_img_011.jpg,1,train,Precancerous,Flashcard 011
+j1data/via_img_012.jpg,0,train,Normal,Flashcard 012
+j1data/via_img_013.jpg,1,train,Precancerous,Flashcard 013
+j1data/via_img_014.jpg,0,train,Normal,Flashcard 014
+j1data/via_img_015.jpg,0,train,Normal,Flashcard 015
+j1data/via_img_016.jpg,0,train,Normal,Flashcard 016
+j1data/via_img_017.jpg,1,train,Precancerous,Flashcard 017
+j1data/via_img_018.jpg,1,train,Precancerous,Flashcard 018
+j1data/via_img_019.jpg,0,train,Normal,Flashcard 019
+j1data/via_img_020.jpg,1,train,Precancerous,Flashcard 020
+j1data/via_img_021.jpg,1,train,Precancerous,Flashcard 021
+j1data/via_img_022.jpg,0,train,Normal,Flashcard 022
+j1data/via_img_023.jpg,1,train,Precancerous,Flashcard 023
+j1data/via_img_024.jpg,1,train,Precancerous,Flashcard 024
+j1data/via_img_025.jpg,2,train,Cancerous,Flashcard 025
+j1data/via_img_026.jpg,0,train,Normal,Flashcard 026
+j1data/via_img_027.jpg,0,train,Normal,Flashcard 027
+j1data/via_img_028.jpg,0,train,Normal,Flashcard 028
+j1data/via_img_029.jpg,1,train,Precancerous,Flashcard 029
+j1data/via_img_030.jpg,0,train,Normal,Flashcard 030
+j1data/via_img_031.jpg,0,train,Normal,Flashcard 031
+j1data/via_img_032.jpg,1,train,Precancerous,Flashcard 032
+j1data/via_img_033.jpg,0,train,Normal,Flashcard 033
+j1data/via_img_034.jpg,0,train,Normal,Flashcard 034
+j1data/via_img_035.jpg,1,train,Precancerous,Flashcard 035
+j1data/via_img_036.jpg,1,train,Precancerous,Flashcard 036
+j1data/via_img_037.jpg,0,train,Normal,Flashcard 037
+j1data/via_img_038.jpg,1,train,Precancerous,Flashcard 038
+j1data/via_img_040.jpg,0,train,Normal,Flashcard 040
+j1data/via_img_041.jpg,0,train,Normal,Flashcard 041
+j1data/via_img_042.jpg,1,train,Precancerous,Flashcard 042
+j1data/via_img_043.jpg,1,train,Precancerous,Flashcard 043
+j1data/via_img_044.jpg,0,train,Normal,Flashcard 044
+j1data/via_img_045.jpg,1,train,Precancerous,Flashcard 045
+j1data/via_img_046.jpg,1,train,Precancerous,Flashcard 046
+j1data/via_img_047.jpg,0,train,Normal,Flashcard 047
+j1data/via_img_048.jpg,0,train,Normal,Flashcard 048
+j1data/via_img_049.jpg,1,train,Precancerous,Flashcard 049
+j1data/via_img_050.jpg,0,train,Normal,Flashcard 050
+j1data/via_img_051.jpg,0,train,Normal,Flashcard 051
+j1data/via_img_052.jpg,1,train,Precancerous,Flashcard 052
+j1data/via_img_053.jpg,0,train,Normal,Flashcard 053
+j1data/via_img_054.jpg,0,train,Normal,Flashcard 054
+j1data/via_img_055.jpg,2,train,Cancerous,Flashcard 055
+j1data/via_img_056.jpg,0,train,Normal,Flashcard 056
+j1data/via_img_057.jpg,0,train,Normal,Flashcard 057
+j1data/via_img_058.jpg,0,train,Normal,Flashcard 058
+j1data/via_img_059.jpg,1,train,Precancerous,Flashcard 059
+j1data/via_img_060.jpg,0,train,Normal,Flashcard 060
+j1data/via_img_061.jpg,1,train,Precancerous,Flashcard 061
+j1data/via_img_062.jpg,0,train,Normal,Flashcard 062
+j1data/via_img_063.jpg,1,train,Precancerous,Flashcard 063
+j1data/via_img_064.jpg,1,train,Precancerous,Flashcard 064
+j1data/via_img_065.jpg,2,train,Cancerous,Flashcard 065
+j1data/via_img_066.jpg,0,train,Normal,Flashcard 066
+j1data/via_img_067.jpg,0,train,Normal,Flashcard 067
+j1data/via_img_068.jpg,1,train,Precancerous,Flashcard 068
+j1data/via_img_069.jpg,1,train,Precancerous,Flashcard 069
+j1data/via_img_070.jpg,1,train,Precancerous,Flashcard 070
+j1data/via_img_071.jpg,0,train,Normal,Flashcard 071
+j1data/via_img_072.jpg,1,train,Precancerous,Flashcard 072
+j1data/via_img_073.jpg,1,train,Precancerous,Flashcard 073
+j1data/via_img_074.jpg,0,train,Normal,Flashcard 074
+j1data/via_img_075.jpg,0,train,Normal,Flashcard 075
+j1data/via_img_076.jpg,0,train,Normal,Flashcard 076
+j1data/via_img_077.jpg,1,train,Precancerous,Flashcard 077
+j1data/via_img_078.jpg,1,train,Precancerous,Flashcard 078
+j1data/via_img_079.jpg,0,train,Normal,Flashcard 079
+j1data/via_img_080.jpg,1,train,Precancerous,Flashcard 080
+j1data/via_img_081.jpg,1,train,Precancerous,Flashcard 081
+j1data/via_img_082.jpg,1,train,Precancerous,Flashcard 082
+j1data/via_img_083.jpg,0,train,Normal,Flashcard 083
+j1data/via_img_084.jpg,0,train,Normal,Flashcard 084
+j1data/via_img_085.jpg,1,train,Precancerous,Flashcard 085
+j1data/via_img_086.jpg,0,train,Normal,Flashcard 086
+j1data/via_img_087.jpg,1,train,Precancerous,Flashcard 087
+j1data/via_img_088.jpg,0,train,Normal,Flashcard 088
+j1data/via_img_089.jpg,2,train,Cancerous,Flashcard 089
+j1data/via_img_090.jpg,1,train,Precancerous,Flashcard 090
+j1data/via_img_091.jpg,1,train,Precancerous,Flashcard 091
+j1data/via_img_092.jpg,1,train,Precancerous,Flashcard 092
+j1data/via_img_093.jpg,1,train,Precancerous,Flashcard 093
+j1data/via_img_094.jpg,0,train,Normal,Flashcard 094
+j1data/via_img_095.jpg,0,train,Normal,Flashcard 095
+j1data/via_img_096.jpg,1,train,Precancerous,Flashcard 096
+j1data/via_img_097.jpg,0,train,Normal,Flashcard 097
+j1data/via_img_098.jpg,1,train,Precancerous,Flashcard 098
+j1data/via_img_099.jpg,0,train,Normal,Flashcard 099
+j1data/via_img_100.jpg,1,train,Precancerous,Flashcard 100
+j1data/via_img_101.jpg,1,train,Precancerous,Flashcard 101
+j1data/via_img_102.jpg,1,train,Precancerous,Flashcard 102
+j1data/via_img_103.jpg,0,train,Normal,Flashcard 103
+j1data/via_img_104.jpg,0,train,Normal,Flashcard 104
+j1data/via_img_105.jpg,0,train,Normal,Flashcard 105
+j1data/via_img_106.jpg,0,train,Normal,Flashcard 106
+j1data/via_img_107.jpg,1,train,Precancerous,Flashcard 107
+j1data/via_img_108.jpg,0,train,Normal,Flashcard 108
+j1data/via_img_109.jpg,0,train,Normal,Flashcard 109
+j1data/via_img_110.jpg,1,train,Precancerous,Flashcard 110
+j1data/via_img_111.jpg,0,train,Normal,Flashcard 111
+j1data/via_img_112.jpg,1,train,Precancerous,Flashcard 112
+j1data/via_img_113.jpg,1,train,Precancerous,Flashcard 113
+j1data/via_img_114.jpg,0,train,Normal,Flashcard 114
+j1data/via_img_115.jpg,0,train,Normal,Flashcard 115
+j1data/via_img_116.jpg,1,train,Precancerous,Flashcard 116

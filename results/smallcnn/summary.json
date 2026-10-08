@@ -1,0 +1,17 @@
+{
+  "model": "smallcnn",
+  "test_accuracy": 0.3950617283950617,
+  "test_macro_f1": 0.33226495726495725,
+  "test_accuracy_ci95": [0.2839506172839506, 0.49382716049382713],
+  "test_macro_f1_ci95": [0.23936242702650973, 0.42294463589912756],
+  "bootstrap_mean_accuracy": 0.3953827160493827,
+  "bootstrap_mean_macro_f1": 0.32874985943008583,
+  "n_test": 81,
+  "best_val_macro_f1": 0.4200968082396186,
+  "confusion_matrix": [[22, 7, 11], [14, 8, 13], [2, 2, 2]],
+  "per_class": {
+    "Normal":       {"precision": 0.5789, "recall": 0.5500, "f1": 0.5641, "support": 40},
+    "Precancerous": {"precision": 0.4706, "recall": 0.2286, "f1": 0.3077, "support": 35},
+    "Cancerous":    {"precision": 0.0769, "recall": 0.3333, "f1": 0.1250, "support": 6}
+  }
+}
