@@ -93,8 +93,7 @@ The test split is evaluated exactly once, by the selected checkpoint.
 
 ## Results
 
-Held-out test split, n = 81 images (12 of the 84 labelled test rows had no
-image file present and were excluded from every split; see Limitations).
+Held-out test split, n = 81 images. Of the 535 labeled image entries, 12 image files were unavailable and excluded, leaving 523 images across the effective train/validation/test splits (361/81/81). See Limitations.
 
 | | Accuracy | 95% CI | Macro-F1 | 95% CI |
 |---|---:|---|---:|---|
